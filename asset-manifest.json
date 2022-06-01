@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/class-tools/static/css/main.2f02a639.css",
+    "main.js": "/class-tools/static/js/main.3253b10f.js",
+    "index.html": "/class-tools/index.html",
+    "main.2f02a639.css.map": "/class-tools/static/css/main.2f02a639.css.map",
+    "main.3253b10f.js.map": "/class-tools/static/js/main.3253b10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f02a639.css",
+    "static/js/main.3253b10f.js"
+  ]
+}
