@@ -1,7 +1,7 @@
 {
   "name": "class-tools",
   "version": "0.1.0",
-  "homepage": "https://andy678.github.io/class-tools",
+  "homepage": "https://andythompsonn.github.io/class-tools",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
